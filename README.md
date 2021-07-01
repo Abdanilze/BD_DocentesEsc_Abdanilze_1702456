@@ -7,7 +7,7 @@ Diretores
 
 
 Alunos
-Nome
+nome
 numero
 idade
 email
